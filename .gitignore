@@ -1,2 +1,4 @@
 /vendor
 composer.lock
+config.bat
+node_modules
